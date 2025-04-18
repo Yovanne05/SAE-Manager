@@ -30,14 +30,6 @@ Application web de gestion de projets académiques avec interfaces distinctes po
 - Architecture MVC
 - Gestion Agile (Trello)
 
-## 🏗️ Structure du Projet
-sae-manager/
-├── assets/ # Fichiers statiques
-├── controllers/ # Contrôleurs PHP
-├── models/ # Modèles de données
-├── views/ # Templates HTML
-└── database.sql # Schéma SQL
-
 ## 🚀 Déploiement
 1. Importer le schéma SQL
 2. Configurer les accès DB dans config/db.php
