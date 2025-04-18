@@ -32,7 +32,7 @@ Application web de gestion de projets académiques avec interfaces distinctes po
 
 ## 🚀 Déploiement
 1. Importer le schéma SQL
-2. Configurer les accès DB dans config/db.php
+2. Configurer les accès DB dans Connexion.php
 3. Héberger sur un serveur Apache/PHP
 
 ## 📊 Bilan Technique
